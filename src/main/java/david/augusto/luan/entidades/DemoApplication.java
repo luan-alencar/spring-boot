@@ -1,4 +1,4 @@
-package david.augusto.luan.java_spring_eclipse_example;
+package david.augusto.luan.entidades;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
